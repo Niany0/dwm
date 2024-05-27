@@ -5,6 +5,8 @@ There are configs for dwm and other suckless programs. I'll put everything relat
 - scrot
 - thunar
 - rofi
+- dmenu
+- kitty
 
 ## Attention!
 To download a whole *de* you have to download it from releases. So if you only need the dwm config, you can execute:
