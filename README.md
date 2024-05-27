@@ -1,5 +1,13 @@
 ## This is my main suckless dwm setup!
-There are configs for every dwm and other suckless programs. I'll put everything related to suckless in this repo so you can download it.
+There are configs for dwm and other suckless programs. I'll put everything related to suckless in this repo so you can download it.
+
+## Attention!
+To download a whole *de* you have to download it from releases. So if you only need the dwm config, you can execute:
+```
+git clone https://github.com/Niany0/dwm
+cd dwm
+sudo make install
+```
 
 ## Commands that must be included in .xinitrc
 ```                                                                                                                                
