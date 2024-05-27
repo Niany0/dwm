@@ -16,5 +16,5 @@ exec slstatus
 ```
 *will be updated...*
 
-### References:
+### Sources:
 - [Suckless](https://suckless.org)
