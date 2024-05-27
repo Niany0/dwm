@@ -1,6 +1,3 @@
-## This is my main suckless dwm setup!
-There are configs for dwm and other suckless programs. I'll put everything related to suckless in this repo so you can download it.
-
 ## Dependencies
 - scrot
 - thunar
